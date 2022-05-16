@@ -8,3 +8,15 @@ Numbers => 123
 Boolean => True | False
 
 typeOf() => Shows data type
+
+
+Variables: 
+
+(keyword)    (value)
+var myName = "Heem";
+    (name)
+
+var = variable
+
+
+
