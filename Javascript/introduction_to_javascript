@@ -1,0 +1,10 @@
+Data Types:
+
+String => "Hello"
+String of characters, text not to be intrepretated by code
+
+Numbers => 123
+
+Boolean => True | False
+
+typeOf() => Shows data type
