@@ -72,28 +72,28 @@ for (i = 0; i < 2; i++){ => Iterate
 
 */
 // expected array as an output 
-function fibbonacciGenerator(n) {
-  var output = []
-  if (n === 1) {
+// function fibbonacciGenerator(n) {
+//   var output = []
+//   if (n === 1) {
     
-    output = [0]
-  } else if (n === 2) {
-      output = [0,1]
-    } else {
-      output = [0, 1];
-    output.push(output[0] + output[1]); // 1
-    if (n === output.length) {
+//     output = [0]
+//   } else if (n === 2) {
+//       output = [0,1]
+//     } else {
+//       output = [0, 1];
+//     output.push(output[0] + output[1]); // 1
+//     if (n === output.length) {
       
-    }
-  }
-    return output
-  }
+//     }
+//   }
+//     return output
+//   }
     
-  // for (let i = 0; i < 10; i++){
-  //   for (let j = i + 1; j < 10; j++){
-  //     output = i + j 
-  //     console.log(output)
-    // }
-  // }
-// }
-console.log(fibbonacciGenerator(5))
+//   // for (let i = 0; i < 10; i++){
+//   //   for (let j = i + 1; j < 10; j++){
+//   //     output = i + j 
+//   //     console.log(output)
+//     // }
+//   // }
+// // }
+// console.log(fibbonacciGenerator(5))
