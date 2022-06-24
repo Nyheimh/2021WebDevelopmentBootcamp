@@ -1,0 +1,39 @@
+A javascript library for building user interfaces.
+
+Diffing, When new data comes in it compares differences and makes updates for users
+
+
+Learning concepts:
+
+JSX
+
+Props
+
+Styling
+
+Destructuing
+
+ES6
+
+Components
+
+useState
+
+State
+
+Import
+Export
+
+Map & Filter
+
+Virtual DOM
+
+Babel - javascript compiler and able to compile to a version the browser can understand
+
+Container
+
+Spread Operator
+
+Destructuing
+
+Declarative Programming

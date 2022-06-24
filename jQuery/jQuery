@@ -1,0 +1,5 @@
+// Library that can be incorporated to improve projects.
+
+// regular JS: document.querySelector("h1 ")
+// vs
+//                  $("h1")
